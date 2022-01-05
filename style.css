@@ -1,0 +1,110 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+h1{
+    font-size:48px;
+}
+h2{
+    font-size:44px
+}
+#section-1{
+    display:flex;
+    padding:50px 59px;
+
+}
+#section-1 h1{
+    border-left:3px solid;
+    border-image:linear-gradient( rgb(255, 0, 212),pink);
+    border-image-slice:1;
+    padding:5px;
+
+}
+
+.focuse-half{
+    width:50%;
+}
+.focuse-half h2{
+    color:goldenrod;
+}
+.focuse-half img{
+    width:80%;
+}
+.focuse-img {
+    margin-top: -98px;
+    padding-left: 69px;
+}
+button{
+    background:yellowgreen;
+    padding:10px 25px;
+    border:none;
+    border-radius:5px;
+    color:white;
+    font-weight: bold;
+}
+
+#my-mission{
+    padding:50px 100px;
+}
+#my-mission h2{
+    text-align:center;
+    color:midnightblue;
+}
+span{
+    color:goldenrod;
+}
+.main-mission{
+    display:flex;
+    justify-content: space-around;
+    
+}
+.mission-1{
+    background: slategrey;
+    width:26%;
+    text-align:center;
+    border-radius:5px;
+    padding:30px 20px;
+    color:white;
+}
+.mission-1 img{
+    width:150px;
+    margin-right:120px;
+}
+.mission-1 p{
+    font-size:12px;
+}
+.miss-bg-1{
+    background: tan;
+}
+.miss-bg-2{
+    background: skyblue;
+}
+.miss-bg-3{
+    background: steelblue;
+}
+#About-me-section{
+    display:flex;
+    padding:50px 100px;
+    margin:100px 0;
+    background-image: url('shape-1.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+}
+#About-team-section{
+    display:flex;
+    padding:50px 100px;
+}
+.team-img{
+    margin-left:93px;
+}
+.btn-read{
+   background:indianred;
+   padding:10px 20px;
+}
+footer{
+    width:100%;
+    padding:5px;
+    text-align:center;
+    background:midnightblue;
+}
