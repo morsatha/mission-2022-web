@@ -42,6 +42,7 @@ button{
     color:white;
     font-weight: bold;
 }
+/*------------------my-mission-style----------*/
 
 #my-mission{
     padding:50px 100px;
@@ -82,6 +83,7 @@ span{
 .miss-bg-3{
     background: steelblue;
 }
+/*------------------about-section-style----------*/
 #About-me-section{
     display:flex;
     padding:50px 100px;
@@ -91,6 +93,7 @@ span{
     background-position: left;
     background-size: 200px;
 }
+
 #About-team-section{
     display:flex;
     padding:50px 100px;
@@ -102,6 +105,7 @@ span{
    background:indianred;
    padding:10px 20px;
 }
+/*------------------team-section-style----------*/
 #our-team-sce{
     padding:50px 100px;
     text-align:center;
@@ -112,7 +116,7 @@ span{
     padding:70px 10px; 
 } 
 
-
+/*------------------fotter-style----------*/
 footer{
     text-align:center;
     background:midnightblue;
