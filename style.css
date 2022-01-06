@@ -102,9 +102,19 @@ span{
    background:indianred;
    padding:10px 20px;
 }
+#our-team-sce{
+    padding:50px 100px;
+    text-align:center;
+    background:rgba(169, 169, 169, 0);
+}
+ .our-team-img img{
+    width:200px;
+    padding:70px 10px; 
+} 
+
+
 footer{
-    width:100%;
-    padding:5px;
     text-align:center;
     background:midnightblue;
+    padding:5px;
 }
